@@ -6,5 +6,5 @@ Isolated Bootstrap v4.5.0
 
 Wrap your html inside this
 
-    <div class="boostrap-jozi">
+    <div class="bootstrap-jozi">
     </div>
